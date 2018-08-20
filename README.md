@@ -45,12 +45,12 @@ Download stock data in shenzhen and shanghai stock market in the given period in
 python main.py --mode=download_data
 ```
 Training/Testing
-noise_flag=True: actions produced by RL agents are distorted by adding UO noise.
-record_flag=True: trading details would be stored as a csv file named by the epoch and cumulative return each epoch.
-plot_flag=True: the trend of wealth would be plot each epoch.
-reload_flag=True: tensorflow would search latest saved model in ./saved_network and reload.
-trainable=True: parameters would be updated during each epoch.
-method=model_based: the first epochs our agents would try to imitate a greedy strategy to quickly improve its performance. Then it would leave it and continue to self-improve by model-free reinforcement learning.
++ noise_flag=True: actions produced by RL agents are distorted by adding UO noise.
++ record_flag=True: trading details would be stored as a csv file named by the epoch and cumulative return each epoch.
++ plot_flag=True: the trend of wealth would be plot each epoch.
++ reload_flag=True: tensorflow would search latest saved model in ./saved_network and reload.
++ trainable=True: parameters would be updated during each epoch.
++ method=model_based: the first epochs our agents would try to imitate a greedy strategy to quickly improve its performance. Then it would leave it and continue to self-improve by model-free reinforcement learning.
 
 ## Result
 
