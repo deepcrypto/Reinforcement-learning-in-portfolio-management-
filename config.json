@@ -1,0 +1,23 @@
+{
+	"data":{
+		"start_date":"2015-01-01",
+		"end_date":"2018-01-01",
+		"market_types":["stock"],
+		"ktype":"D"
+	},
+	"session":{
+		"start_date":"2015-01-05",
+		"end_date":"2017-01-01",
+		"market_types":"America",
+	    "codes":["AAPL","ADBE","BABA","SNE","V"],
+		"features":["close"],
+		"agents":["CNN","DDPG","3"],
+		"epochs":"10000",
+		"noise_flag":"False",
+		"record_flag":"False",
+		"plot_flag":"False",
+		"reload_flag":"False",
+		"trainable":"True",
+		"method":"model_free"
+	}
+}
