@@ -23,7 +23,8 @@ Motivated by "A Deep Reinforcement Learning Framework for the Financial Portfoli
 
 ## Acknowledegment
 
-We would like to say thanks to Mingwen Liu from ShingingMidas Private Fund, Zheng Xie and Xingyu Fu from Sun Yat-sen University for their generous guidance throughout the project.
+We would like to say thanks to ***Mingwen Liu*** from ***ShingingMidas Private Fund***, ***Zheng Xie*** and ***Xingyu Fu*** from ***Sun Yat-sen University*** for their generous guidance throughout the project.
+
 ## Set up
 
 Python Version
@@ -40,6 +41,7 @@ Modules needed
 ## Contact
 
 + liangzhp6@mail2.sysu.edu.cn
++ jiangkk3@mail2.sysu.edu.cn
 + chenhao8@mail2.sysu.edu.cn
 + zhujh25@mail2.sysu.edu.cn
 + liyr8@mail2.sysu.edu.cn
