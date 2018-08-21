@@ -54,6 +54,8 @@ Training/Testing
 
 ## Result
 
+![result](/result.jpg)
+
 ## Contribution
 
 ### Contributors
