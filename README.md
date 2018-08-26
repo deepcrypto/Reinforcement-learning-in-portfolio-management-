@@ -45,6 +45,13 @@ Download stock data in shenzhen and shanghai stock market in the given period in
 python main.py --mode=download_data
 ```
 Training/Testing
+```
+python main.py --mode=train
+```
+
+```
+python main.py --mode=test
+```
 + noise_flag=True: actions produced by RL agents are distorted by adding UO noise.
 + record_flag=True: trading details would be stored as a csv file named by the epoch and cumulative return each epoch.
 + plot_flag=True: the trend of wealth would be plot each epoch.
