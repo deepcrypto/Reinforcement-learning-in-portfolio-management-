@@ -60,8 +60,22 @@ python main.py --mode=test
 + method=model_based: the first epochs our agents would try to imitate a greedy strategy to quickly improve its performance. Then it would leave it and continue to self-improve by model-free reinforcement learning.
 
 ## Result
++ Training data (USA)
+  ![USA](result/USA.png)
++ Training data (China)
+  ![China](result/China.png)
 
-![result](/result.jpg)
++ Backtest (USA)
+  ![backtest_USA](result/backtest_USA.png)
+
++ APV under different feature combinations
+  ![features_reward](result/features_reward.png)
+
+**The other results can be found in our report.**
+
+
+
+
 
 ## Contribution
 
